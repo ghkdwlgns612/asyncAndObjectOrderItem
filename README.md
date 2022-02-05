@@ -11,6 +11,11 @@
 + InMemory(Map Collection)
 + Lombok
 + Junit5
+---
+
+### 프로그램 설계
+
+<img width="809" alt="스크린샷 2022-02-05 오후 6 59 02" src="https://user-images.githubusercontent.com/68694844/152637072-37e1999a-7bb8-44d5-a070-76f097407d8c.png">
 
 
 ---
