@@ -24,7 +24,7 @@
 ```
 java -jar /out/artifacts/~.jar
 ```
-
+##### 주의) 실행 시 오류발생 할 수 있으나 
 ### 프로그램 실행결과
 <img width="545" alt="스크린샷 2022-02-05 오후 6 32 03" src="https://user-images.githubusercontent.com/68694844/152636449-7d446950-fdce-4ea9-9ba5-c81b2cc72b62.png">
 <img width="716" alt="스크린샷 2022-02-05 오후 6 33 13" src="https://user-images.githubusercontent.com/68694844/152636480-6a1d63fd-7e7c-4085-b203-909465825976.png">
